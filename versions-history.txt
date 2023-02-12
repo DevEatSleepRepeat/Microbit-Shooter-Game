@@ -1,0 +1,6 @@
+File history
+
+- V1  The basic structure of a shooting game, no enemies.
+- V2  Added enemies.
+- V3  Minor bug fixes, including sound replaying in the background.
+- V4  Minor bug fixes, Added Features.
