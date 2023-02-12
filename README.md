@@ -1,4 +1,5 @@
 # Microbit Shooter Game (MSG)
+![Code](https://i.ibb.co/gJQsXQ9/Screenshot-from-2023-02-12-14-30-58.png)
 MSG is a simple shooter game design for the microbit V2.
 
 ## About
